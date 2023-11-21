@@ -1,3 +1,7 @@
+pink
+red
+blue
+green
 uno
 dos
 tres
